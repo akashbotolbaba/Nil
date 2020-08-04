@@ -76,7 +76,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;98mNiloy Ahmed Nil
 \033[1;96mInstagram \033[1;93m: \033[1: Niloy
 \033[1;96mFacebook  \033[1;93m: \033[1: niloyahmed.56124
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/akashbotolbaba/Nil/edit/master/SmartBoy.py
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/akashbotolbaba/Nil
 \033[1;91m======================================="""
 
 def tik():
@@ -127,7 +127,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92m niloyahmed56124
 \033[1;96mInstagram \033[1;93m: \033[1;92m niloy ahmed
 \033[1;96mFacebook  \033[1;93m: \033[1;92m niloyahmed56124
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/akashbotolbaba/Nil/edit/SmartBoy.py
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/akashbotolbaba/Nil
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
