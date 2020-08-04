@@ -13,10 +13,10 @@
 
 + pkg install git
 
-+ git clone https://github.com/akashbotolbaba/Nil/new/master
++ git clone https://github.com/akashbotolbaba/Nil
 
 + cd Nil
 
-+ python2 Akash.py
++ python2 Nil.py
 
 
