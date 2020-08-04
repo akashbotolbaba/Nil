@@ -15,8 +15,8 @@
 
 + git clone https://github.com/akashbotolbaba/Nil
 
-+ cd Nil
++ cd Akash
 
-+ python2 Nil.py
++ python2 Akash.py
 
 
